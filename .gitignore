@@ -1,0 +1,14 @@
+# 应用数据目录
+data/
+
+# PostgreSQL 数据
+postgres_data/
+
+# Redis 数据
+redis_data/
+
+# 环境变量配置（含密码密钥）
+.env
+
+# macOS 系统文件
+.DS_Store
